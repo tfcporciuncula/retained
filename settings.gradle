@@ -1,1 +1,1 @@
-include ':sample', ':core', ':fragment'
+include ':sample', ':core', ':activity', ':fragment'
